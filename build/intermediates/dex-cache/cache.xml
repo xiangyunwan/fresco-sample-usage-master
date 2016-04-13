@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_9faa2f094bb64bed87c18e96e0bdbde0134fc14b.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_57c1eeb7a9e41854aca5c1e3a4ab57173bde4a6a.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.1_df9ccd09b4ed586d68f18edc811ac0b6afc5000d.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d6825a79ca6c134dd6f26fc15eff443b5215dbdc">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\pl.droidsonroids.gif-android-gif-drawable-1.1.7_ae1de2e71eabea55069c3f0b74ca9d774b69043f.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4ee95617ab850030c51486d02bc9d207b14419c6">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.9.0_9f418f7c6beaa8b323a0120164d6adaabfdc41c3.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_5ddb85384c211a11347e988071d554579bf749fc.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4_1e9bfe15661981f4e4d9c0877201bc7455ce822a.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_ace67b31b98fbedf43836c51d1006a5fe5079460.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_5fbb92ced2d7949da70cd75043d1ab1815af4e51.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_99a0d163970f6a2ac12e109489cce7ca3fc07aef.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca51025f4a58fc7fb6cfaa85e7d09b7ae47e6187">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.9.0_e8479bef5556bdc4c6424f27f2a4434decdb8bab.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39bd9f893c75eac9e76559cc4e96af6e417afdc5">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.9.0_d920be9203b3f676013cb36682f1c52d145261d8.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3158c15bb0ae97575debdb40cfcd8f0f9f244526">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.9.0_e527881ccf0ebb68c47b83ec9dbae21ae56eba01.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57528b5deee77bfa2188fc279fd45066366f17f5">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.9.0_b08950856034588b68549c05e83ba7163572e202.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_012e02627b9c987a4eaf63898d21c9bb434c3125.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\library-2.4.0_6a3127adc4fdadc7a504676be01b82bbd9d2238e.jar" />
+    </item>
+    <item
+        jar="D:\android_github\fresco-sample-usage-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\android_github\fresco-sample-usage-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_fd95b3970cba74d54e4ed5933fa124e90ad12e01.jar" />
+    </item>
+
+</items>
